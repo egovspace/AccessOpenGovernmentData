@@ -16,7 +16,7 @@ from matplotlib.ticker import FormatStrFormatter, ScalarFormatter
 
 def loadData():
     
-    BiharMasterDataXML = "https://api.data.gov.in/resource/3f328009-8f64-426d-9228-750a3fe8e326?api-key=579b464db66ec23bdd000001fd7963712a83437c63be24d8602b9e81&format=xml&offset=0&limit=10"
+    BiharMasterDataXML = "https://api.data.gov.in/resource/3f328009-8f64-426d-9228-750a3fe8e326?api-key=xxxxxxxxxxxxxxxxxxxxxxxxfd7963712a83437c63be24d8602b9e81&format=xml&offset=0&limit=10"
 
         
 #    BiharMasterDataCSV = "https://api.data.gov.in/resource/3f328009-8f64-426d-9228-750a3fe8e326?api-key=579b464db66ec23bdd000001cdd3946e44ce4aad7209ff7b23ac571b&format=csv&offset=0&limit=10"
